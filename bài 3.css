@@ -1,0 +1,32 @@
+
+.nav-link {
+    font-size: 1.3rem;
+}
+
+.active  {
+    background-color: #849FFF;
+    color: white !important;
+    border-radius: 0.5rem ;
+}
+
+.person {
+    padding: 1rem;
+    background-color: #FBFCFF;
+    border-radius: 0.5rem;
+}
+
+.person-tag {
+    display: flex;
+    flex-direction: row;
+}
+
+.text{
+    border: 1px solid #BFC8E6;
+    border-radius: 0.8rem;
+    margin-right: 0.5rem;
+    color:  #516FD4;
+    padding: 0.3rem;
+    width:70px
+
+}
+
